@@ -1,6 +1,3 @@
-ALzheimers-classification 
-
-
 Classification of Alzheimer’s Cases Using CNNs
 
 Overview
